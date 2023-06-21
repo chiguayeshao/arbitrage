@@ -62,7 +62,7 @@ def get_klines(symbol, interval, start_str, end_str):
     return all_klines
 
 
-symbol = 'LTCUSDT'
+symbol = 'BTCUSDT'
 time_interval = '15m'
 startTime = '2022-06-21'
 endTime = '2023-06-20'
