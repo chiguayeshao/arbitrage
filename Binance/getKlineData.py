@@ -13,7 +13,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# 你的Binance API key和秘密
 api_key = os.getenv('BINANCE_API_KEY')
 api_secret = os.getenv('BINANCE_SECRET_KEY')
 
